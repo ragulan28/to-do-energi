@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/to-do-energi/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/to-do-energi/static/js/main.31fa7f40.chunk.js",
+    "main.js.map": "/to-do-energi/static/js/main.31fa7f40.chunk.js.map",
+    "runtime-main.js": "/to-do-energi/static/js/runtime-main.fb023900.js",
+    "runtime-main.js.map": "/to-do-energi/static/js/runtime-main.fb023900.js.map",
+    "static/js/2.ffba4915.chunk.js": "/to-do-energi/static/js/2.ffba4915.chunk.js",
+    "static/js/2.ffba4915.chunk.js.map": "/to-do-energi/static/js/2.ffba4915.chunk.js.map",
+    "static/js/3.279f013e.chunk.js": "/to-do-energi/static/js/3.279f013e.chunk.js",
+    "static/js/3.279f013e.chunk.js.map": "/to-do-energi/static/js/3.279f013e.chunk.js.map",
+    "index.html": "/to-do-energi/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/to-do-energi/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.ffba4915.chunk.js.LICENSE.txt": "/to-do-energi/static/js/2.ffba4915.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb023900.js",
+    "static/js/2.ffba4915.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.31fa7f40.chunk.js"
+  ]
+}
